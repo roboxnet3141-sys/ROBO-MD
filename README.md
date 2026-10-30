@@ -10,7 +10,7 @@
 
 ---
 
-<h2 align="center">📊 JAWAD-MD Analytics </h2> 
+<h2 align="center">📊 Robo-MD Analytics </h2> 
 
 ---
 
@@ -100,13 +100,13 @@
 
 ## 📡 DEPLOYMENT SITES
 
-<p align="center">Deploy your <strong>JAWAD-MD Bot</strong> with one click on your favorite hosting platforms.</p>
+<p align="center">Deploy your <strong>Robo-MD Bot</strong> with one click on your favorite hosting platforms.</p>
 
 
 <div align="center">
   <table>
     <tr>
-      <td><a href="https://dashboard.heroku.com/new?template=https://github.com/JawadTechXD/JAWAD-MD" target="_blank"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&labelColor=000000&color=00ffff"/></a></td>
+      <td><a href="https://dashboard.heroku.com/new?template=https://github.com/Roboxnet3141-sys/Robo-MD" target="_blank"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&labelColor=000000&color=00ffff"/></a></td>
       <td><a href="https://talkdrove.com" target="_blank"><img src="https://img.shields.io/badge/TalkDrove-6971FF?style=for-the-badge&logo=github&logoColor=white&labelColor=000000"/></a></td>
     </tr>
     <tr>
